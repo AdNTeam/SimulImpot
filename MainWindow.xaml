@@ -64,14 +64,14 @@
 
             </Grid>
         </Border>
-        <Image HorizontalAlignment="Left" Height="79" Margin="693,39,0,0" VerticalAlignment="Top" Width="200" Stretch="Fill" Cursor="UpArrow" Grid.Column="3" RenderTransformOrigin="0.557,0.684">
+        <Image HorizontalAlignment="Left" Height="79" Margin="692.6,39,0,0" VerticalAlignment="Top" Width="200" Stretch="Fill" Cursor="UpArrow" Grid.Column="3" RenderTransformOrigin="0.557,0.684">
             <Image.Source>
-                <BitmapImage UriSource="E:\mon-pc\Desktop\th.jpg"/>
+                <BitmapImage UriSource="C:\Users\mon-pc\source\repos\SimulImpot\SimulImpot\th.jpg"/>
             </Image.Source>
         </Image>
         <Image HorizontalAlignment="Left" Height="79" Margin="14,39,0,0" VerticalAlignment="Top" Width="200" Cursor="UpArrow" IsEnabled="False" Stretch="Fill" Grid.Column="3">
             <Image.Source>
-                <BitmapImage UriSource="E:\mon-pc\Desktop\th.jpg"/>
+                <BitmapImage UriSource="C:\Users\mon-pc\source\repos\SimulImpot\SimulImpot\th.jpg"/>
             </Image.Source>
         </Image>
         <Label Content="Djiby-Abdoulaye-Souahibou &#xD;&#xA;" HorizontalAlignment="Left" Height="35" Margin="14.285,127,0,0" VerticalAlignment="Top" Width="260" FontSize="18" FontWeight="Bold" Grid.Column="3"/>
